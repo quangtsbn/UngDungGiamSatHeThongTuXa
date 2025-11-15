@@ -1,0 +1,3 @@
+Timestamp,DateTime,AgentID,Zone,CPU(%),RAM(%),TotalRAM(GB),Disk(%),TotalDisk(GB),FreeDisk(GB)
+1762252444212,2025-11-04 17:34:04,Quang,Local-Machine,4.52,71.33,15.74,58.64,476.01,196.88
+1762252445108,2025-11-04 17:34:05,Quang,Local-Machine,3.26,71.34,15.74,58.64,476.01,196.88
