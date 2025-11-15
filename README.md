@@ -82,7 +82,7 @@ Hệ thống giám sát phần cứng là một ứng dụng Java Swing cho phé
 ### 1. Clone repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/quangtsbn/UngDungGiamSatHeThongTuXa.git>
 cd BTL
 ```
 
